@@ -21,8 +21,4 @@
 - Procesamiento: Evaluación con modelos de IA y cálculo de probabilidades.
 - Salida: Recomendaciones en tiempo real ("Foldear", "Apostar", "Subir la apuesta").
 
-**5. Beneficios y Aplicaciones**
-- Mejora la toma de decisiones de jugadores novatos y experimentados.
-- Adaptabilidad a diferentes modalidades de póker (Texas Hold'em, Omaha, etc.).
-- Posible aplicación en plataformas de entrenamiento y simulación.
 
