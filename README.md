@@ -1,5 +1,5 @@
 # BigData-UD "NO DEFINITIVO"
-**Presentación: Sistema de Recomendación de Manos de Póker con Datos Sintéticos**
+**Presentación: Sistema de Recomendación de Manos de Póker con Datos Sintéticos Autogenerados**
 
 **1. Introducción**
 - En el mundo del póker, tomar decisiones informadas es clave para el éxito.
